@@ -2,17 +2,18 @@
 # Tubes 2 DAI
 
 Berikut adalah hasil dari Tugas Besar DAI IF3070 dari kelompok 12 yang beranggotakan : 
-Christopher Richard Chandra / 18222057
-Wisyendra Lunarmalam / 18222095
-Anthony Bryant Gouw / 18222033
-Richie Leonardo / 18222071
+- Christopher Richard Chandra / 18222057
+- Wisyendra Lunarmalam / 18222095
+- Anthony Bryant Gouw / 18222033
+- Richie Leonardo / 18222071
 
 
-
+## Pendahuluan
+Pada Tugas Besar 2 IF3070 Dasar Inteligensi Artifisial, implementasi algoritma pembelajaran mesin (Machine Learning), KKN dan Gaussian Naive-Bayes, dilakukan pada dataset PhiUSIIL Phishing URL Dataset. PhiUSIIL Phishing URL Dataset merupakan sebuah dataset dengan ukuran cukup besar yang terdiri dari 134.850 URL asli (Legitimate) dan 100.945 URL palsu (Phishing). Analisa yang dilakukan pada PhiUSIIL Phishing URL merupakan URL terbaru yang mana sebagian besar features diekstraksi dari source code webpage dan URL. Dataset yang digunakan tim untuk implementasi algoritma Machine Learning dapat  diakses pada link Kaggle berikut https://www.kaggle.com/competitions/tugas-besar-2-if-3070/ .
 
 ## How to run
 
-Install file .ipynb yang telah disediakan, kemudian jalankan run all
+Install file .ipynb yang telah disediakan, kemudian jalankan run all.
 
 
 ## Pembagian Tugas
