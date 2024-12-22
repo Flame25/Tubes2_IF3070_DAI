@@ -13,9 +13,12 @@ Pada Tugas Besar 2 IF3070 Dasar Inteligensi Artifisial, implementasi algoritma p
 
 ## How to run
 
+1. Local
 ```
 Install file .ipynb yang telah disediakan, kemudian jalankan run all.
 ```
+
+2. Via [Google Colab](https://colab.research.google.com/drive/1dW6UHoXTqaUtVkj9gkn1KXDV9scTYaXl?usp=sharing)
 
 
 ## Pembagian Tugas
