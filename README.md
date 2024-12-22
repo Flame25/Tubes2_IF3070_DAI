@@ -13,7 +13,9 @@ Pada Tugas Besar 2 IF3070 Dasar Inteligensi Artifisial, implementasi algoritma p
 
 ## How to run
 
+```
 Install file .ipynb yang telah disediakan, kemudian jalankan run all.
+```
 
 
 ## Pembagian Tugas
